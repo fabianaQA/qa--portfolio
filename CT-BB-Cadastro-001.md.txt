@@ -1,0 +1,19 @@
+# CT-BB-CADASTRO-001
+
+## Título
+Cadastro com os campos obrigatórios preenchidos corretamente
+
+## Pré-condição
+Usuário acessar o site http://bugbank.netlify.app
+
+## Passos
+1. Acessar o site bugbank.netlify.app.
+2. Clicar em **Registrar**.
+3. Preencher o campo **E-mail** com um valor válido.
+4. Preencher o campo **Nome**.
+5. Preencher o campo **Senha**.
+6. Preencher o campo **Confirmação de Senha**.
+7. Clicar no botão **Cadastrar**.
+
+## Resultado Esperado
+O sistema deve exibir uma mensagem de sucesso contendo o número da conta criada.
