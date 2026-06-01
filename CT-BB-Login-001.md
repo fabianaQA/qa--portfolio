@@ -17,5 +17,4 @@ Usuário cadastrado com:
 ## Resultado Esperado
 O sistema deve exibir uma mensagem informando que as credenciais são inválidas.
 
-## Resultado Obtido
-"Usuário ou senha inválido. Tente novamente ou verifique suas informações."
+
