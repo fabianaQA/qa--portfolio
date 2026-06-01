@@ -10,7 +10,7 @@ Usuário cadastrado com:
 
 ## Passos para Execução
 1. Acessar o site `bugbank.netlify.app`
-2. Informar um e-mail válido.
+2. Preencher com um e-mail válido.
 3. Deixar o campo senha vazio.
 4. Clicar no botão **Acessar**.
 
