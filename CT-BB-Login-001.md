@@ -1,29 +1,21 @@
-CT-BB-LOGIN-001
-Título
+# CT-BB-LOGIN-001
 
-Login com e-mail inválido
+## Título
+**Login com e-mail inválido**
 
-Pré-condição
-
+## Pré-condição
 Usuário cadastrado com:
+- E-mail: `Fabi@teste.com.br`
+- Senha: `123456`
 
-E-mail: Fabi@teste.com.br
-Senha: 123456
-Passos para Execução
-Acessar o site bugbank.netlify.app
-Informar um e-mail inválido.
-Informar uma senha válida.
-Clicar no botão Acessar.
-Resultado Esperado
+## Passos para Execução
+1. Acessar o site `bugbank.netlify.app`
+2. Informar um e-mail inválido.
+3. Informar uma senha válida.
+4. Clicar no botão **Acessar**.
 
+## Resultado Esperado
 O sistema deve exibir uma mensagem informando que as credenciais são inválidas.
 
-Resultado Obtido
-
-Foi exibida a mensagem:
-
+## Resultado Obtido
 "Usuário ou senha inválido. Tente novamente ou verifique suas informações."
-
-Status
-
-✅ Passou
